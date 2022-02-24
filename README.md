@@ -1,2 +1,2 @@
 # UCM_CSE_21
-Here are my code files during the time I took CSE 21 at UCM
+This github repo has my code for my UCM CSE 20 Class Java code during my freshman year
